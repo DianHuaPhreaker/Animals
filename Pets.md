@@ -1,8 +1,8 @@
-Rusty
-Blue
-Scout
-Rocket
-Stevie Chicks
-Monty
-Mocha
-George the Frog
+- Rusty
+- Blue
+- Scout
+- Rocket
+- Stevie Chicks
+- Monty
+- Mocha
+- Geroge the Frog
