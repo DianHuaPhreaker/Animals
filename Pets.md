@@ -7,3 +7,7 @@
 - Mocha
 - Geroge the Frog
 - Wyatt
+
+**guns**
+M9
+AR15
