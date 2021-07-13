@@ -1,4 +1,7 @@
-Paulie
+Rusty
 Blue
 Scout
-Chickens
+Rocket
+Stevie Chicks
+Monty
+Mocha
